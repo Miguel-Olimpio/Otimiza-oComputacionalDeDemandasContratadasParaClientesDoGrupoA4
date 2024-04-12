@@ -92,8 +92,7 @@ Embora a explicação tenha sido de uma forma extremamente resumida, abaixo esta
 
 ![gifFinal5](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/bb5c8571-614c-48ee-8b93-1912a0559b55)
 
-Lembrando que cada um destes dados e graficos apresentados no gif acima necessitava ser interativo para que analises pudessem ser feitas e o código otimizado com o
-tratamento de dados corretos.
+Lembrando que cada um destes dados e graficos apresentados no gif acima necessitava ser interativo para que analises pudessem ser feitas junto ao cliente e o código otimizado com o tratamento de dados correto, para que o valor fosse alcansado.
 
 # Autor
 
