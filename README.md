@@ -61,15 +61,19 @@ superior ao da demanda contratada, e cada uma dessas variáveis dependem de dive
 trabalho acadêmico extremamente longo. No entanto os resultados finais podem ser visualizados no gráfico a seguir:
 
 Grafico 1 - Representa a demanda contratada no periodo dos dados fornecidos:
+
 ![gif9](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/35168163-4b18-4d47-9fc5-79fd12b4f3c8)
 
 Grafico 2 - Representa o gasto devida a mesma:
+
 ![gif13](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/768eef54-b5e9-49d4-8c92-fb5c4281d86f)
 
 Grafico 3 - Representa a Demanda calculada como ótima:
+
 ![gif11](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/dcc78f78-794f-4653-a19e-54cce593f10b)
 
 Grafico 4 - Representa o gasto que da demanda calculada como otima:
+
 ![gif14](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/c0ba1691-1788-4ecb-beee-df7930693498)
 
 Observe que o gráfico 2 o gasto medio total é aproximadamente R$11.135,00 e o gráfico 4 o preço médio mensal é de R$7.610,00, mesmo que a demanda ótima tenham
@@ -77,12 +81,15 @@ custo de ultrapassagem, a economia no mesmo periodo seria de aproximadamente R$4
 
 Observem também as tabelas geradas:
 Tabela 1 - Gastos sem otimização
+
 ![tabelaAtual](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/abaf6ba4-0a78-4a7e-817e-029222a710b8)
 
 Tabela 2 - Gastos com otimização
+
 ![tabelaOtimizada](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/fb9cc4e9-3a86-423c-b877-19ea46ff2691)
 
 Embora a explicação tenha sido de uma forma extremamente resumida, abaixo estará exibido como o código de fato chegou a este resultado:
+
 ![gifFinal5](https://github.com/Miguel-Olimpio/Otimiza-oComputacionalDeDemandasContratadasParaClientesDoGrupoA4/assets/107503116/bb5c8571-614c-48ee-8b93-1912a0559b55)
 
 Lembrando que cada um destes dados e graficos apresentados no gif acima necessitava ser interativo para que analises pudessem ser feitas e o código otimizado com o
